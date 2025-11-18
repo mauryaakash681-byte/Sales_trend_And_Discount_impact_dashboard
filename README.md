@@ -32,3 +32,9 @@ Excel/CSV as data source
 🎯 Purpose
 
 To help businesses identify sales patterns, discount effectiveness, top-performing SKUs, and city-level demand — enabling better planning and decision-making.
+
+🧑‍💻 Author
+
+Akash Maurya
+mauryaakash681@gmail.com
+https://www.linkedin.com/in/akashrkrmaurya/
