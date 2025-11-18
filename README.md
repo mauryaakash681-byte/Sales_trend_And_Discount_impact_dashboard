@@ -4,19 +4,29 @@ This Power BI dashboard shows monthly sales trends, order status, top-selling SK
 🔍 Key Features
 
 Net Sales trend by Month
+
 Order Status breakdown
+
 Seller SKU performance
+
 City + SKU combined analysis
+
 Event-wise discount impact
+
 Gross & Net Sales KPIs
+
 Clean data model with optimized DAX measures
 
 🛠 Tech Stack
 
 Power BI
+
 Power Query
+
 DAX
+
 Data Modeling (Star Schema)
+
 Excel/CSV as data source
 
 🎯 Purpose
